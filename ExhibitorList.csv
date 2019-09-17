@@ -1,0 +1,468 @@
+id,Company,Booth
+1,10x Genomics,472
+2,3M,1800
+3,Accenture,1171
+4,ACM / ACM-W,1250
+5,Activision Blizzard,1701
+6,Adobe,1417
+7,ADP,1123
+8,Aetna/CVS Health,5422
+9,Affirm,143
+10,"Airbnb, Inc.",813
+11,AKAMAI,1645
+12,Alegeus,880
+13,AlixPartners,1142
+14,Allstate Insurance Company,451
+15,Amazon,T1964
+16,American Express,1100
+17,Amplitude,242
+18,Ancestry,1664
+19,AnitaB.org,631
+20,Ansatz Capital,572
+21,"AppFolio, Inc.",339
+22,Apple,531
+23,Aptiv,411
+24,Arcesium,1073
+25,Argonne National Laboratory,216
+26,Arizona State University,277
+27,Arm,4341
+28,Asana,664
+29,ASML,362
+30,Atlassian,130
+31,Atrium,480
+32,Aurora,462
+33,Avalara,1765
+34,AvidXChange,3545
+35,AXON,465
+36,BAE SYSTEMS INC,405
+37,Ball Aerospace,144
+38,Bank of America,931
+39,Barclays,1641
+40,Belvedere Trading,471
+41,Berkeley Lab,218
+42,Bill.com,357
+43,Black Girls Code,154
+44,Blackbaud,1181
+45,BlackRock,1141
+46,Bloomberg,1323
+47,BMW Group,117
+48,BNY Mellon,1340
+49,"Boston Dynamics Inc.,",470
+50,Boston University Dept. of CS,1461
+51,BP,2008
+52,Brain Corp,1761
+53,Brex,340
+54,Bridgewater Associates,140
+55,Brown University Computer Science,351
+56,Bungie,1442
+57,Cal Poly State University CSSE,457
+58,Caltech,1739
+59,Canonical,261
+60,Capital One,1531
+61,Carbon Black,331
+62,CarGurus,1563
+63,Carnegie Mellon - Heinz College,1163
+64,Carnegie Mellon ETC,1145
+65,Carnegie Mellon University - INI,1240
+66,Carnegie Mellon University - MSCF Program,1248
+67,Carnegie Mellon University ECE+SCS,1242
+68,Carnegie Mellon University SEI,1165
+69,Catalyte,2012
+70,CBRE Build,138
+71,CDW,1065
+72,CenturyLink,1661
+73,Chan Zuckerberg Initiative,938
+74,Charles Schwab,108
+75,Checkr,563
+76,Chegg,574
+77,Chevron Corporation,4248
+78,Chewy.com,1930
+79,Chicago Trading Company (CTC),1642
+80,Ciena,2016
+81,Cigna,3539
+82,Cisco,1301
+83,Citadel | Citadel Securities,410
+84,Citi,206
+85,Citrix,112
+86,Classpass,278
+87,Cloudflare,444
+88,CME Group,5429
+89,CMU-Integrated Innovation Institute,1246
+90,Cognizant,1359
+91,Coinbase,1813
+92,Colorado School of Mines - Computer Science,171
+93,Colorado State University,970
+94,Comcast NBCUniversal,418
+95,Communications-Electronics Command,1740
+96,Computer Science and Engineering UB,179
+97,Consilio,460
+98,Cornell CIS/Cornell Tech,1000
+99,"Coupa Software, Inc.",358
+100,Coursera,1136
+101,Cox Enterprises,463
+102,CRA-WP (Widening Participation),862
+103,Criteo,1713
+104,CrowdStrike,771
+105,Cru,373
+106,Cummins Inc.,157
+107,D. E. Shaw Research,964
+108,Datadog,1925
+109,Dataminr,345
+110,Datto,917
+111,DeepMind,137
+112,Deloitte,1801
+113,Denso,1178
+114,Deutsche Bank,1345
+115,DigitalBCG,256
+116,Discover,430
+117,"Docker, Inc.",359
+118,DocuSign,5132
+119,DoorDash,1754
+120,DraftKings,857
+121,Drexel University College of Computing & Informatics,915
+122,Dropbox,341
+123,Duke University,1005
+124,Duke University Department of Statistical Science,170
+125,EA,641
+126,eBay,1607
+127,ECE ILLINOIS,571
+128,Emory University - Goizueta Business School,456
+129,Eventbrite,2010
+130,Everlaw,1078
+131,Expedia Group,661
+132,Experian Services Corp.,1737
+133,ExxonMobil,1905
+134,EY,1807
+135,F5 Networks,350
+136,Facebook,T1953
+137,FactSet,1140
+138,FairyGodBoss,446
+139,Fast Enterprises,1806
+140,Federal Reserve System,1164
+141,Fermilab,212
+142,Fidelity Investments,1255
+143,Flatiron Health,1247
+144,Flexport,1653
+145,Ford Motor Company,452
+146,Foursquare,1170
+147,Fox Corporation,1175
+148,Galois,980
+149,GARMIN,1734
+150,GE HealthCare,908
+151,GEICO,1131
+152,General Dynamics,2018
+153,Genesys,672
+154,GenYes,259
+155,Georgia College & State University,1920
+156,Georgia Tech College of Computing,134
+157,Georgia Tech Constellations Center for Equity in Computing,136
+158,Georgia Tech Research Institute,1708
+159,Girls Who Code,2022
+160,GoDaddy,1311
+161,Goldman Sachs,1348
+162,GoodRx,177
+163,Google,719
+164,Groupon,1130
+165,Grubhub,1543
+166,Guardian,118
+167,Gusto,254
+168,HackerRank,274
+169,Handshake,972
+170,Harvard School of Engineering,942
+171,Harvard University - Business School,356
+172,Harvey Mudd College,172
+173,HERE Technologies,754
+174,Hewlett Packard Enterprise,4328
+175,Hired Inc.,155
+176,Honey,316
+177,Honeywell,1448
+178,HP Inc.,518
+179,"HubSpot, Inc.",549
+180,Hudson River Trading,4725
+181,IBM,957
+182,IKEA,562
+183,Illinois Computer Science,1341
+184,Illinois Institute of Technology,1736
+185,IMC Trading,252
+186,Indeed,322
+187,Indiana University SICE,246
+188,Insomniac Games,849
+189,Intel Corporation,711
+190,Intuit,511
+191,Iowa State University,474
+192,iRobot,559
+193,Jane Street,673
+194,Jefferson Lab,977
+195,Jet Propulsion Laboratory,1243
+196,John Deere,1921
+197,Johns Hopkins Applied Physics Lab,414
+198,Johns Hopkins University,1249
+199,JPMorgan Chase & Co.,201
+200,Juniper Networks Inc,755
+201,Justworks,279
+202,Kaiser Permanente,860
+203,Khan Academy,578
+204,Khoury College of Computer Sciences,948
+205,Kohl's,142
+206,KPMG LLC,558
+207,Kyruus,580
+208,L3Harris Technologies,1707
+209,Lawrence Livermore National Lab,213
+210,LendingClub,473
+211,Lesbians Who Tech + Allies,760
+212,Liberty Mutual Insurance,1700
+213,Life360,871
+214,Lilly,1902
+215,LinkedIn,1430
+216,LiveRamp,875
+217,Looker Data Sciences,556
+218,Los Alamos National Laboratory,219
+219,Los Angeles Dept of Water and Power,1075
+220,"Lowe's Companies, Inc.",3846
+221,Lyft,173
+222,Macy's Tech,810
+223,Major League Baseball,4548
+224,Massachusetts Institute of Technology - Lincoln Laboratory,1706
+225,Massachusetts Institute of Technology - SDM,1108
+226,Massachusetts Institute of Technology - Sloan School of Management,1109
+227,Mastercard Incorporated,741
+228,MathWorks,1363
+229,McAfee,679
+230,McKinsey & Company | Tech Careers,1755
+231,Medidata Solutions,1760
+232,Merck & Co.,4743
+233,Michigan Technological University,674
+234,Microsoft Corporation,1231
+235,Millennium Management LLC,1752
+236,Missouri S & T Computer Science,1318
+237,MiTek,950
+238,MITRE,1460
+239,Mitsubishi Electric,561
+240,MongoDB,565
+241,Montana State University,275
+242,Moody's Analytics,1444
+243,Morgan Stanley,1317
+244,"Morningstar, Inc.",658
+245,Nat’l Institute of Standards & Tech,1008
+246,National Security Agency (NSA),1712
+247,NCWIT,314
+248,"NetApp, Inc.",1423
+249,New Jersey Institute of Technology,478
+250,New York Life Insurance Co.,401
+251,Nike,123
+252,Nintendo of America,1657
+253,Nordstrom,438
+254,North Carolina State University,244
+255,Northeastern University,258
+256,Northrop Grumman,1201
+257,Northwestern Medicine,120
+258,Northwestern Mutual,1909
+259,Northwestern University - CIERA,1139
+260,Northwestern University CS Dept.,1137
+261,Northwestern University: MSL,1074
+262,NPR,918
+263,NYU Stern School of Business,178
+264,NYU Tandon School of Engineering,861
+265,Oak Ridge National Laboratory,214
+266,OfferUp,775
+267,Okta,250
+268,OpenAI Inc,400
+269,OpenDoor,780
+270,Optimizely,680
+271,"Optum, A UnitedHealth Group company",1545
+272,Oracle,1411
+273,Oscar Health,110
+274,Pacific Northwest National Lab,312
+275,PagerDuty,675
+276,Palantir Technologies,1162
+277,Pantheon,1077
+278,Pariveda Solutions,570
+279,PathAI,477
+280,Patreon.com,1438
+281,PAX Labs,147
+282,"Paypal, Inc.",245
+283,PEAK6,371
+284,"Peloton Interactive, Inc.",1144
+285,Penn Engineering,113
+286,PIMCO,864
+287,PitcHer,740
+288,"Pivotal Software, Inc.",853
+289,Plaid,974
+290,Playground Global LLC,777
+291,PNC Financial Service Group, Inc.",1652
+292,Point72,146
+293,Priceline,377
+294,Protocol Labs,5127
+295,Prudential,4229
+296,PTC,1443
+297,Publicis Sapient,458
+298,PURE Storage,965
+299,PwC,701
+300,Qualcomm,1206
+301,Qualtrics,372
+302,Quora,1063
+303,Raytheon Company,650
+304,RealSelf,1172
+305,RECSOLU INC (YELLO),671
+306,Red Balloon Security,670
+307,Red Hat,649
+308,"Reddit, Inc.",774
+309,Redfin,475
+310,RetailMeNot Inc.,1663
+311,Rice University,1177
+312,Riot games,1463
+313,Ripple,459
+314,Robinhood Markets Inc.,865
+315,Rochester Institute Of Technology,952
+316,Rocket Mortgage by Quicken Loans,1660
+317,Rockwell automation,1355
+318,Rose-Hulman Institute of Technology,1079
+319,Royal Caribbean Cruises Ltd.,158
+320,S&P Global,960
+321,"Salesforce.co, Inc.",941
+322,Samsara,375
+323,Samsung,553
+324,Sandia National Laboratories,318
+325,SAS,2020
+326,Schlumberger,464
+327,Schrödinger,975
+328,ServiceNow,922
+329,SIG,1157
+330,Simmons College,814
+331,SLAC National Accelerator Lab,217
+332,Slack,156
+333,Slalom Build,1733
+334,Snap Inc.,1553
+335,SoFi,1932
+336,Sonos,1753
+337,Sony Interactive Entertainment,2004
+338,Southern New Hampshire University,1009
+339,Spectrum D.B.A Charter Communications Inc.,1635
+340,Splunk,1150
+341,Spotify,107
+342,Square Inc.,1462
+343,Squarespace,851
+344,St. Mary's College of Maryland,174
+345,Standard Cognition,770
+346,Stanford University,116
+347,Starbucks,652
+348,State Farm Mutual Automobile Insurance Company,1559
+349,Stevens Institute of Technology,811
+350,Strava,338
+351,Stripe,1261
+352,Stryker,153
+353,StubHub,263
+354,Systems & Technology Research,378
+355,T. Rowe Price,1644
+356,Tableau Software,1354
+357,Tala,272
+358,Target,101
+359,TD Ameritrade,773
+360,Teachers Pay Teachers,872
+361,Temple University,677
+362,Texas Instruments,1160
+363,The Aerospace Corporation,406
+364,The Boeing Company,1022
+365,The D.E. Shaw Group,914
+366,The Estée Lauder Companies,159
+367,The George Washington University,353
+368,The Hartford,1744
+369,The Home Depot,1002
+370,The Pennsylvania State University,772
+371,The Rocket Science group LLC Dba(MailChimp),1903
+372,The Universtity of Texas at Austin,839
+373,The Walt Disney Company,1617
+374,ThoughtWorks,1601
+375,Thumbtack,374
+376,TIBCO Software,1062
+377,T-Mobile,848
+378,Toyota North America,1064
+379,Travelers Insurance,1260
+380,TrialSpark,873
+381,TripAdvisor,363
+382,TripleByte,360
+383,Tufts Computer Science Department,1445
+384,Twilio,1665
+385,Twitch TV,1662
+386,Twitter Inc.,923
+387,Two Sigma,831
+388,Two Sigma Ventures,744
+389,Ubisoft,1072
+390,UBS,843
+391,UC Berkeley - School of Information,909
+392,UC Berkeley EECS Department,742
+393,UC Berkeley Master of Financial Engineering,1901
+394,UCSD Computer Science & Engineering,1711
+395,UIUC School of Information Sciences,1173
+396,"Ultimate Software Group, Inc.",131
+397,Under Armour,148
+398,United Airlines,461
+399,United States Digital Service,273
+400,Unity Technologies,749
+401,Univ of MN - Carlson School of Mgmt,963
+402,"Univ of Washington, Comp Sci & Engr",257
+403,"Univ. of Illinois at Chicago, CS",1174
+404,University of Arizona MIS,1741
+405,"University of California, Irvine",450
+406,"University of California, Santa Cruz",911
+407,University of Chicago,1808
+408,University of Denver,962
+409,University of Maryland Engineering,1710
+410,University of Maryland-Department of Computer Science,335
+411,University of Massachusetts Amherst,347
+412,University of Michigan,104
+413,University of Minnesota CS&E,973
+414,"University of Missouri, Columbia",404
+415,University of Nebraska - Lincoln,175
+416,University of Nebraska at Omaha,971
+417,University of North Texas,1565
+418,University of Notre Dame - CSE,761
+419,University of Oklahoma,577
+420,University of Pittsburgh,863
+421,University of Rochester,1070
+422,University of San Francisco,115
+423,University of Southern California,765
+424,University of Texas at Dallas- The Department of Computer Science,1900
+425,University of Vermont,870
+426,University of Virginia,361
+427,University of Washington Tacoma,878
+428,University of Waterloo,1161
+429,University of Wisconsin-Madison Department of Computer Sciences,778
+430,USAA,3215
+431,USF Computer Science & Engineering,763
+432,UT Min H. Kao Department of EECS,841
+433,UT San Antonio Computer Science,370
+434,UTA Computer Science & Engineering,270
+435,"UW Bothell, Computer Science",662
+436,Valparaiso University,874
+437,Vanderbilt University,1241
+438,Vanguard,1922
+439,Varian Medical Systems,1416
+440,Veeva,575
+441,Verily,145
+442,Verizon,1454
+443,Viasat,648
+444,Villanova University,1441
+445,Virginia Tech Online Master of IT,1439
+446,"Visa, Inc.",364
+447,Vista Higher Learning,271
+448,Walmart,541
+449,Warner Media,1915
+450,Washington University in St. Louis,1147
+451,Wayfair,956
+452,Wells Fargo,2000
+453,West Monroe Partners,106
+454,Western Digital,1316
+455,Wework,1251
+456,William & Mary,944
+457,Women in CyberSecurity (WiCyS),1071
+458,Workday,500
+459,Worldpay,1731
+460,WorldQuant,100
+461,Xilinx Inc.,1646
+462,"Yelp, Inc.",1356
+463,"Yext, Inc.",1001
+464,Zendesk,1440
+465,Zillow,655
+466,ZS,573
+467,Zynga, Inc.,151

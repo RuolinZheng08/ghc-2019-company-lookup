@@ -233,10 +233,10 @@
         },
         {
             "booth": "3545",
-            "description": "DF Concerts is a concert promoter which is based in and operates across Scotland.\nDF Concerts promote and manage T in the Park festival and owns and manages King Tut's Wah Wah Hut in Glasgow. ",
+            "description": "",
             "industry": "",
             "name": "AvidXChange",
-            "url": "http://dfconcertsandevents.com/"
+            "url": "https://www.avidxchange.com/"
         },
         {
             "booth": "465",
@@ -338,10 +338,10 @@
         },
         {
             "booth": "470",
-            "description": "SoftBank Group Corp. is a Japanese multinational conglomerate holding company headquartered in Tokyo, Japan. The company owns stakes in Softbank Corp., Softbank Vision Fund, Arm Holdings, Fortress Investment Group, Boston Dynamics, Sprint, Alibaba, Yahoo Japan, Brightstar, Uber, Didi Chuxing, Ola, Grab, Renren, InMobi, Hike, Snapdeal, Brain, Fanatics, Guardant Health, Improbable Worlds, Mapbox, Nauto, One97 Communications, OYO, OSIsoft, Ping An Insurance, Plenty United, Roivant Sciences, Slack Technologies, Vir Biotechnology, WeWork, Zhongan Online P&amp;C Insurance, Compass, AUTO1 Group, Wag, Katerra, Cruise Automation, Ele.me, Getaround, Packet and ParkJockey, Grofers, Tokopedia. ",
-            "industry": "Multinational conglomerate company",
-            "name": "Boston Dynamics Inc.,",
-            "url": "http://www.softbank.jp/"
+            "description": "Boston Dynamics is an American engineering and robotics design company founded in 1992 as a spin-off from the Massachusetts Institute of Technology. Headquartered in Waltham, Massachusetts, Boston Dynamics is a wholly owned subsidiary of the Japanese conglomerate SoftBank Group.",
+            "industry": "Robotics company",
+            "name": "Boston Dynamics Inc.",
+            "url": "https://www.bostondynamics.com"
         },
         {
             "booth": "1461",
@@ -359,7 +359,7 @@
         },
         {
             "booth": "1761",
-            "description": "Electro Brain was a United States video game company. They brought over Star Soldier: Vanishing Earth for the Nintendo 64, as well as published games like Go! Go! ",
+            "description": "",
             "industry": "Company",
             "name": "Brain Corp",
             "url": ""
@@ -506,8 +506,8 @@
         },
         {
             "booth": "938",
-            "description": "Atlas Solutions is a subsidiary of Facebook, acquired from Microsoft in February, 2013, which provides services in online advertising. ",
-            "industry": "Online advertising company",
+            "description": "",
+            "industry": "",
             "name": "Chan Zuckerberg Initiative",
             "url": ""
         },
@@ -520,8 +520,8 @@
         },
         {
             "booth": "563",
-            "description": "Institutional Venture Partners is a US-based private equity investment firm focusing on later-stage venture capital and growth equity investments. IVP is one of the oldest venture capital firms on Sand Hill Road founded in 1980.",
-            "industry": "Private equity company",
+            "description": "",
+            "industry": "",
             "name": "Checkr",
             "url": ""
         },
@@ -968,8 +968,8 @@
         },
         {
             "booth": "1806",
-            "description": "The Magic Pan is a small American chain of fast-food and take-away creperies using the recipes of a now-closed chain of full-service restaurants that specialized in cr\u00eapes, popular in the early 1970s through early 1990s, which peaked at 110 Magic Pan locations throughout the United States and Canada.",
-            "industry": "Fast-food restaurant",
+            "description": "",
+            "industry": "",
             "name": "Fast Enterprises",
             "url": ""
         },
@@ -996,8 +996,8 @@
         },
         {
             "booth": "1247",
-            "description": "F. Hoffmann-La Roche AG is a Swiss multinational healthcare company that operates worldwide under two divisions: Pharmaceuticals and Diagnostics. Its holding company, Roche Holding AG, has bearer shares listed on the SIX Swiss Exchange. The company headquarters are located in Basel.\n",
-            "industry": "Pharmaceutical company",
+            "description": "",
+            "industry": "",
             "name": "Flatiron Health",
             "url": ""
         },
@@ -1297,10 +1297,10 @@
         },
         {
             "booth": "322",
-            "description": "Indeed Brewing Company is a microbrewery located in the Logan Park neighborhood of Northeast Minneapolis. It was founded in 2011 by friends Thomas Whisenand, Rachel Anderson, and Nathan Berndt. ",
-            "industry": "Company",
+            "description": "Indeed is an American worldwide employment-related search engine for job listings launched in November 2004. It is a subsidiary of Japan's Recruit Co. Ltd. and is co-headquartered in Austin, Texas and Stamford, Connecticut with additional offices around the world.",
+            "industry": "Website",
             "name": "Indeed",
-            "url": "http://www.indeedbrewing.com/"
+            "url": "https://www.indeed.com/"
         },
         {
             "booth": "246",
@@ -1500,10 +1500,10 @@
         },
         {
             "booth": "1430",
-            "description": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. ",
+            "description": "LinkedIn is an American business and employment-oriented service that operates via websites and mobile apps for show-casing users their professional identity.",
             "industry": "Technology company",
             "name": "LinkedIn",
-            "url": "http://www.microsoft.com"
+            "url": "http://www.linkedin.com"
         },
         {
             "booth": "875",
@@ -1549,7 +1549,7 @@
         },
         {
             "booth": "810",
-            "description": "Paribus is an American company and creator of the price tracking app of the same name, which syncs with a user's email account to scan for receipts and negotiates with online companies to refund the difference if there is a price drop shortly after a purchase.",
+            "description": "",
             "industry": "Company",
             "name": "Macy's Tech",
             "url": ""
@@ -1745,8 +1745,8 @@
         },
         {
             "booth": "401",
-            "description": "AXA is a French multinational insurance firm headquartered in the 8th arrondissement of Paris that engages in global insurance, investment management, and other financial services.\n",
-            "industry": "Insurance service company",
+            "description": "",
+            "industry": "",
             "name": "New York Life Insurance Co.",
             "url": ""
         },
@@ -1871,10 +1871,10 @@
         },
         {
             "booth": "400",
-            "description": "PayPal Holdings Inc. is an American company operating a worldwide online payments system that supports online money transfers and serves as an electronic alternative to traditional paper methods like checks and money orders. ",
-            "industry": "Company",
+            "description": "OpenAI is the for-profit corporation OpenAI LP, whose parent organization is the non-profit organization OpenAI Inc, which conducts research in the field of artificial intelligence with the stated aim to promote and develop friendly AI in such a way as to benefit humanity as a whole.",
+            "industry": "Artificial intelligence company",
             "name": "OpenAI Inc",
-            "url": ""
+            "url": "https://openai.com"
         },
         {
             "booth": "780",
@@ -2004,10 +2004,10 @@
         },
         {
             "booth": "740",
-            "description": "Major League Baseball is a professional baseball organization and the oldest of the major professional sports leagues in the United States and Canada. A total of 30 teams play in the National League and American League, with 15 teams in each league. The NL and AL were formed as separate legal entities in 1876 and 1901, respectively. ",
+            "description": "",
             "industry": "Baseball league",
             "name": "PitcHer",
-            "url": "http://mlb.mlb.com/index.jsp"
+            "url": ""
         },
         {
             "booth": "853",
@@ -2053,7 +2053,7 @@
         },
         {
             "booth": "5127",
-            "description": "StartX is a non-profit startup accelerator and founder community associated with Stanford University.\nIt was founded by Cameron Teitelman in 2011.\n",
+            "description": "",
             "industry": "Company",
             "name": "Protocol Labs",
             "url": ""
@@ -2123,7 +2123,7 @@
         },
         {
             "booth": "1172",
-            "description": "Lifestyle Lift was a national facial cosmetic surgery practice with headquarters in Troy, Michigan, United States. The company's name in all caps is a trademarked brand name used to market a particular type of facial surgery called the lifestyle lift. ",
+            "description": "",
             "industry": "Company",
             "name": "RealSelf",
             "url": ""
@@ -2242,10 +2242,10 @@
         },
         {
             "booth": "941",
-            "description": "",
-            "industry": "",
+            "description": "Salesforce.com, Inc. is an American cloud-based software company headquartered in San Francisco, California.",
+            "industry": "Software company",
             "name": "Salesforce.co, Inc.",
-            "url": ""
+            "url": "https://www.salesforce.com"
         },
         {
             "booth": "375",
@@ -2396,8 +2396,8 @@
         },
         {
             "booth": "851",
-            "description": "SumAll is a cross-platform marketing analytics company based in New York City. The company's platform combines social media, web traffic, sales metrics and other data to allow customers to track business and social media metrics.\n",
-            "industry": "Analytics company",
+            "description": "Squarespace is a private American company, based in New York City, that provides software as a service for website building and hosting. Its customers use pre-built website templates and drag and drop elements to create webpages.",
+            "industry": "Company",
             "name": "Squarespace",
             "url": "https://www.squarespace.com/"
         },

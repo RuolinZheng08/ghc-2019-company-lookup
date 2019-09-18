@@ -5,7 +5,7 @@
             "description": "10x Genomics is an American biotechnology company that designs and manufactures gene sequencing technology used in scientific research. It was founded in 2012 by Serge Saxonov, Ben Hindson and Kevin Ness.\nCustomers include research centers, academic institutions, clinical research organizations and biotechnology companies. ",
             "industry": "Company",
             "name": "10x Genomics",
-            "url": ""
+            "url": "http://www.10xgenomics.com/"
         },
         {
             "booth": "1800",
@@ -19,7 +19,7 @@
             "description": "Accenture plc is a multinational professional services company that provides services in strategy, consulting, digital, technology and operations. A Fortune Global 500 company, it has been incorporated in Dublin, Ireland, since 1 September 2009. ",
             "industry": "Company",
             "name": "Accenture",
-            "url": ""
+            "url": "https://www.accenture.com/us-en"
         },
         {
             "booth": "1250",
@@ -58,14 +58,14 @@
         },
         {
             "booth": "143",
-            "description": "",
-            "industry": "Company",
+            "description": "Affirm is a privately held financial technology company headquartered in San Francisco. Founded in 2012, the company operates as a financial lender of installment loans for consumers to use at the point of sale to finance a purchase.",
+            "industry": "Consumer finance company",
             "name": "Affirm",
-            "url": ""
+            "url": "affirm.com"
         },
         {
             "booth": "813",
-            "description": "A\u200ci\u200cr\u200cb\u200cn\u200cb\u200c, \u200c \u200cI\u200cn\u200cc\u200c.\u200c is an online marketplace for arranging or offering lodging, primarily homestays, or tourism experiences. ",
+            "description": "Airbnb is an online marketplace for arranging or offering lodging, primarily homestays, or tourism experiences. ",
             "industry": "Company",
             "name": "Airbnb, Inc.",
             "url": "http://www.airbnb.com"
@@ -142,10 +142,10 @@
         },
         {
             "booth": "339",
-            "description": "",
-            "industry": "",
+            "description": "AppFolio was founded in 2006 and offers software-as-a-service applications for vertical markets. AppFolio initially focused on Property Management software. With the acquisition of MyCase in 2012, it expanded into the Law Practice Management industry. The company’s headquarters is in Goleta, California, United States.",
+            "industry": "Software company",
             "name": "AppFolio, Inc.",
-            "url": ""
+            "url": "appfolioinc.com"
         },
         {
             "booth": "531",
@@ -264,7 +264,7 @@
             "description": "The Bank of America Corporation is an American multinational investment bank and financial services company based in Charlotte, North Carolina, with central hubs in New York City, London, Hong Kong, Minneapolis, and Toronto. ",
             "industry": "Investment banking company",
             "name": "Bank of America",
-            "url": ""
+            "url": "bankofamerica.com"
         },
         {
             "booth": "1641",
@@ -278,7 +278,7 @@
             "description": "",
             "industry": "",
             "name": "Belvedere Trading",
-            "url": ""
+            "url": "http://www.belvederetrading.com/"
         },
         {
             "booth": "218",
@@ -572,7 +572,7 @@
             "description": "Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley. ",
             "industry": "Networking hardware company",
             "name": "Cisco",
-            "url": ""
+            "url": "https://www.cisco.com"
         },
         {
             "booth": "410",
@@ -1167,21 +1167,21 @@
             "description": "Gusto is a company that provides a cloud-based payroll, benefits, and human resource management software for businesses based in the United States. ",
             "industry": "Company",
             "name": "Gusto",
-            "url": ""
+            "url": "https://gusto.com/"
         },
         {
             "booth": "274",
             "description": "HackerRank is a technology company that focuses on competitive programming challenges for both consumers and businesses, where developers compete by trying to program according to provided specifications. ",
             "industry": "Company",
             "name": "HackerRank",
-            "url": ""
+            "url": "https://www.hackerrank.com/"
         },
         {
             "booth": "972",
-            "description": "",
-            "industry": "Record label",
+            "description": "Handshake is the B2B eCommerce platform that brings manufacturers & distributors closer to their customers— both in person and online.",
+            "industry": "Company",
             "name": "Handshake",
-            "url": ""
+            "url": "https://www.joinhandshake.com"
         },
         {
             "booth": "942",
@@ -2382,10 +2382,10 @@
         },
         {
             "booth": "107",
-            "description": "",
+            "description": "Spotify Technology S.A. is a Swedish media-services provider founded in 2006. The company's primary business is its audio streaming platform that provides DRM-protected music and podcasts from record labels and media companies.",
             "industry": "Company",
             "name": "Spotify",
-            "url": ""
+            "url": "https://www.spotify.com/"
         },
         {
             "booth": "1462",
@@ -2399,7 +2399,7 @@
             "description": "SumAll is a cross-platform marketing analytics company based in New York City. The company's platform combines social media, web traffic, sales metrics and other data to allow customers to track business and social media metrics.\n",
             "industry": "Analytics company",
             "name": "Squarespace",
-            "url": ""
+            "url": "https://www.squarespace.com/"
         },
         {
             "booth": "174",
@@ -2445,10 +2445,10 @@
         },
         {
             "booth": "338",
-            "description": "Mapbox is an American provider of custom online maps for websites and applications such as Foursquare, Lonely Planet, Facebook, the Financial Times, The Weather Channel and Snapchat. ",
-            "industry": "",
+            "description": "Strava is a social fitness network, that is primarily used to track cycling and running exercises, using GPS data although alternative types are available. Strava offers a free service with no advertising in its mobile application, and a monthly subscription plan called Strava Summit.",
+            "industry": "Software",
             "name": "Strava",
-            "url": ""
+            "url": "https://www.strava.com/"
         },
         {
             "booth": "1261",
@@ -2495,7 +2495,7 @@
         {
             "booth": "272",
             "description": "",
-            "industry": "Record label",
+            "industry": "",
             "name": "Tala",
             "url": ""
         },
@@ -2581,7 +2581,7 @@
             "description": "The Home Depot Inc. or Home Depot is the largest home improvement retailer in the United States, supplying tools, construction products, and services. The company is headquartered at the Atlanta Store Support Center in unincorporated Cobb County, Georgia.\n",
             "industry": "Retail company",
             "name": "The Home Depot",
-            "url": ""
+            "url": "https://www.homedepot.com/"
         },
         {
             "booth": "772",
@@ -2690,17 +2690,17 @@
         },
         {
             "booth": "1662",
-            "description": "",
-            "industry": "",
+            "description": "Twitch is the world's leading live streaming platform for gamers and the things we love. Watch and chat now with millions of other fans from around the world.",
+            "industry": "Website",
             "name": "Twitch TV",
-            "url": ""
+            "url": "https://www.twitch.tv/"
         },
         {
             "booth": "923",
-            "description": "",
+            "description": "Twitter is a microblogging and social networking service on which users post and interact with messages known as "tweets". Tweets were originally restricted to 140 characters, but on November 7, 2017, this limit was doubled to 280 for all languages except Chinese, Japanese, and Korean.",
             "industry": "Social network company",
             "name": "Twitter Inc.",
-            "url": ""
+            "url": "https://twitter.com"
         },
         {
             "booth": "831",
@@ -3216,9 +3216,9 @@
         {
             "booth": "100",
             "description": "WorldQuant, LLC is an international hedge fund and quantitative investment management firm headquartered in Old Greenwich, Connecticut. ",
-            "industry": "",
+            "industry": "Company",
             "name": "WorldQuant",
-            "url": ""
+            "url": "https://www.worldquant.com/home/"
         },
         {
             "booth": "1646",

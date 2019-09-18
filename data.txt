@@ -2697,7 +2697,7 @@
         },
         {
             "booth": "923",
-            "description": "Twitter is a microblogging and social networking service on which users post and interact with messages known as "tweets". Tweets were originally restricted to 140 characters, but on November 7, 2017, this limit was doubled to 280 for all languages except Chinese, Japanese, and Korean.",
+            "description": "Twitter is a microblogging and social networking service on which users post and interact with messages known as \"tweets\". Tweets were originally restricted to 140 characters, but on November 7, 2017, this limit was doubled to 280 for all languages except Chinese, Japanese, and Korean.",
             "industry": "Social network company",
             "name": "Twitter Inc.",
             "url": "https://twitter.com"

@@ -8,7 +8,8 @@ $(document).ready(function() {
         {data: 'industry'},
         {data: 'description'},
         {data: 'url'}
-      ]
+      ],
+      responsive: true
     });
   });
 });

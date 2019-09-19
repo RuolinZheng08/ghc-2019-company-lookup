@@ -3,12 +3,18 @@ $(document).ready(function() {
     $('#table').DataTable({
       data: json['companies'],
       columns: [
-        {data: 'booth'},
-        {data: 'name'},
-        {data: 'industry'},
-        {data: 'description'},
-        {data: 'url'}
-      ],
+      {data: 'booth'},
+      {data: 'name'},
+      {data: 'industry'},
+      {data: 'description'},
+      {data: 'url',
+      render: function(data, type, row, meta) {
+        if (type == 'display') {
+          data = '<a href="' + data + '">' + data + '</a>';
+        }
+        return data;
+      }
+      }],
       responsive: true
     });
   });

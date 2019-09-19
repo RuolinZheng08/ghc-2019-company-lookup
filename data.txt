@@ -544,7 +544,7 @@
             "description": "Chewy, Inc., a subsidiary of PetSmart based in Dania Beach, Florida, is an online retailer of pet food and other pet-related products.",
             "industry": "Online retail company",
             "name": "Chewy.com",
-            "url": ""
+            "url": "chewy.com"
         },
         {
             "booth": "1642",
@@ -698,7 +698,7 @@
             "description": "Coursera is an American online learning platform founded by Stanford professors Andrew Ng and Daphne Koller that offers massive open online courses, specializations, and degrees.\n",
             "industry": "",
             "name": "Coursera",
-            "url": ""
+            "url": "coursera.org"
         },
         {
             "booth": "463",
@@ -1972,7 +1972,7 @@
             "description": "PayPal Holdings Inc. is an American company operating a worldwide online payments system that supports online money transfers and serves as an electronic alternative to traditional paper methods like checks and money orders. ",
             "industry": "Company",
             "name": "Paypal, Inc.",
-            "url": ""
+            "url": "paypal.com/us/home"
         },
         {
             "booth": "371",
@@ -2151,10 +2151,10 @@
         },
         {
             "booth": "774",
-            "description": "",
+            "description": "Reddit is an American social news aggregation, web content rating, and discussion website. Registered members submit content to the site such as links, text posts, and images, which are then voted up or down by other members.",
             "industry": "Website",
             "name": "Reddit, Inc.",
-            "url": ""
+            "url": "redditinc.com"
         },
         {
             "booth": "475",
@@ -2788,10 +2788,10 @@
         },
         {
             "booth": "273",
-            "description": "The PBS HD Channel is a digital television network in the United States. The network was launched on March 1, 2004 for the purpose of offering high definition and widescreen content 24 hours per day, seven days per week.\n",
-            "industry": "Television network",
+            "description": "The United States Digital Service is an elite technology unit housed within the Executive Office of the President of the United States. It provides consultation services to federal agencies on information technology. It seeks to improve and simplify digital service, and to improve federal websites.",
+            "industry": "Federal agency",
             "name": "United States Digital Service",
-            "url": ""
+            "url": "https://usds.gov/"
         },
         {
             "booth": "749",
